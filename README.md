@@ -1,0 +1,2 @@
+# rabbitmq-demo-AmqpTemplate
+AmqpTemplate实现rabbitmq的简单发送接收
